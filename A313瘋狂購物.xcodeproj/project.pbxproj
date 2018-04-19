@@ -14,6 +14,7 @@
 		5905B81B208887F5005961AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5905B819208887F5005961AB /* LaunchScreen.storyboard */; };
 		5905B826208887F5005961AB /* A313____Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5905B825208887F5005961AB /* A313____Tests.swift */; };
 		5905B831208887F5005961AB /* A313____UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5905B830208887F5005961AB /* A313____UITests.swift */; };
+		5905B83F20888815005961AB /* shopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5905B83E20888815005961AB /* shopViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5905B82C208887F5005961AB /* A313瘋狂購物UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "A313瘋狂購物UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5905B830208887F5005961AB /* A313____UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A313____UITests.swift"; sourceTree = "<group>"; };
 		5905B832208887F5005961AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5905B83E20888815005961AB /* shopViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shopViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				5905B810208887F1005961AB /* AppDelegate.swift */,
 				5905B812208887F1005961AB /* ViewController.swift */,
 				5905B814208887F1005961AB /* Main.storyboard */,
+				5905B83E20888815005961AB /* shopViewController.swift */,
 				5905B817208887F5005961AB /* Assets.xcassets */,
 				5905B819208887F5005961AB /* LaunchScreen.storyboard */,
 				5905B81C208887F5005961AB /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5905B813208887F1005961AB /* ViewController.swift in Sources */,
+				5905B83F20888815005961AB /* shopViewController.swift in Sources */,
 				5905B811208887F1005961AB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
